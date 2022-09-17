@@ -1,0 +1,8 @@
+.activado {
+    color: red;
+    font-weight: bold;
+}
+
+.noActivado {
+    color: blue;
+}
